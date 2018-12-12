@@ -22,6 +22,14 @@ class ActivityGitTest : AppCompatActivity() {
         // commit 2
         // commit 3
 
+<<<<<<< .merge_file_a02936
+        //branch B commit 1
+        //branch B commit 2
+=======
+        // branch A commit 1
+        // branch A commit 2
+        // branch A commit 3
+>>>>>>> .merge_file_a07204
 
     }
 }
