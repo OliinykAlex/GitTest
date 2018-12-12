@@ -21,6 +21,7 @@ class ActivityGitTest : AppCompatActivity() {
 
         // commit 2
 
+        // branch A commit 1
 
     }
 }
